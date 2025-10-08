@@ -11,6 +11,13 @@ from multiprocessing import Pool
 import matplotlib.pyplot as plt
 from src.simulate_func import set_simulation_fit_new_mut,simulate,func_time,error_new_mut,fit_data_new_mut
 from multiprocessing import Pool
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> 88251ed (New plot, README and requirements files)
+>>>>>>> 80a5968 (Figs in .svg)
 import time # BORRAR
 
 # Import datasets
